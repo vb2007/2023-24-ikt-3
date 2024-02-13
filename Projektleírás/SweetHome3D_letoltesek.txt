@@ -1,0 +1,9 @@
+Sweet Home 3D
+Letöltés:
+http://www.sweethome3d.com/download.jsp
+
+Importálható bútortárak:
+https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-models/3DModels-1.8/
+
+Importálható textúrák:
+https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-textures/Textures-1.2/
