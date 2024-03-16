@@ -14,7 +14,7 @@
 
 1. **Boti**: (epikus hangon) ByteBloom Innovations 
 
-2. **Levi**: ByteBloom... A vállalat, ami kapcsolatot teremt. Cégünk célja a modern kommunikáció megteremtése, és az emberek, valamint cégek közti villámgyors adatküldés és fogadás szolgáltatása.
+2. **~~Levi~~ Boti**: ByteBloom... A vállalat, ami kapcsolatot teremt. Cégünk célja a modern kommunikáció megteremtése, és az emberek, valamint cégek közti villámgyors adatküldés és fogadás szolgáltatása.
 
 3. **Balázs**: Mindezt megifzethető áron juttatjuk el ügyfeleinkhez. Valamint teljesen meg lehet bízni szolgáltatásainkban, mivel szakembereink mindig tettre készen várnak és figyelik az ügyfelek kéréseit, problémáit. A videó hátralévő részében az egyik cégünk által épített hálózatot fogjuk bemutatni, amit az L-Trans utazási irodának készítettünk.
 
@@ -24,9 +24,9 @@
 
 5. **Boti**: Továbblépve a második irodára, itt is három szobának biztosít vállalatunk hálózati hozzáférést. Az itteni ügyféltér két alkalazottának is egy switch biztosít 1GB/s [gigabit per szekundum] -os sebességet, valamint az ügyfelek itt is egy SOHO router segítségével férnek hozzá az internethez. Emellett a vezetőség 3 dolgozója is problémamentesen fér hozzá a hálózathoz, valamint tudja használni az egyszerűen elérhető nyomtatót. Végül ebben az irodában található egy bemutató terem is, ahol 4 KIOSK segítségével mutathatja be az iroda szolgáltatásaikat az ügyfeleknek.
 
-6. **Levi**: Az összeköttetési ponttól nem messze található az iroda szervere is, melyhez bármelyik iroda bármelyik szobájából bármelyik gépről bárki hozzáférhet. A sebesség természetesen itt is kifogásolhatatlan, másodperceket belül eljutnak a szerverhez a küldött adatok. A fő router és az irodában található routerek modern, erős serial kábellel vannak összekötve, melyeknek 4 000 000 -s értékű órajelük van.
+6. **~~Levi~~ Balázs**: Az összeköttetési ponttól nem messze található az iroda szervere is, melyhez bármelyik iroda bármelyik szobájából bármelyik gépről bárki hozzáférhet. A sebesség természetesen itt is kifogásolhatatlan, másodperceket belül eljutnak a szerverhez a küldött adatok. A fő router és az irodában található routerek modern, erős serial kábellel vannak összekötve, melyeknek 4 000 000 -s értékű órajelük van.
 
-6. **Levi**: Ahogy a cég kérte, minden helyiségből el lehet érni mindent. Mint a KIOSK-os terem a 2. irodában, mint az ügyféltér az 1. irodában és bármilyen egyéb szoba hozzáfér a másik irodához és a köztük található szerverhez, melyen a vállalat weboldala található.
+6. **~~Levi~~ Balázs**: Ahogy a cég kérte, minden helyiségből el lehet érni mindent. Mint a KIOSK-os terem a 2. irodában, mint az ügyféltér az 1. irodában és bármilyen egyéb szoba hozzáfér a másik irodához és a köztük található szerverhez, melyen a vállalat weboldala található.
 
 7. **Boti**: A routerek a csatlakoztatott eszközöknek modern, korszerű DHCP technológiával osztanak IP címeket, így nem kell bajlódni a manuális IP konfigurációval. A DHCP-s címosztás alól a nyomtatók, és egyértelműen a switchek mentesülnek. Ezeknek az eszközöknek manuálisan osztottunk statikus IP címet, hogy az alkalamazottak mindig, egy fix címről tudják elérni őket, és ne kelljen bajlódni a folyton változó címekkel. A switcheken rendesen felkonfigurált vlan interface [interfész]-ek is találhatók, melyek nagy előnyt jelentenek.
 
@@ -38,7 +38,7 @@
 
 *Videó vége, itt szintén megjelenik pár stock videó, majd a végén a logónk.*
 
-10. **Levi**: Hát ezek lennénk mi, a ByteBloom Innovations KFT. Akik gyors és megbízható összeköttetést szolgáltatnak ügyfeleiknek a nap 24 órájában. Szolgáltatásaink ára megfizethető, tehát az anyagiak miatt sem kell aggódni. Ha minket választanak, soha többé sem kell majd aggódni kapcsolati problémák miatt.
+10. **~~Levi~~ Balázs**: Hát ezek lennénk mi, a ByteBloom Innovations KFT. Akik gyors és megbízható összeköttetést szolgáltatnak ügyfeleiknek a nap 24 órájában. Szolgáltatásaink ára megfizethető, tehát az anyagiak miatt sem kell aggódni. Ha minket választanak, soha többé sem kell majd aggódni kapcsolati problémák miatt.
 
 <hr>
 
