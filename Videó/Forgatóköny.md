@@ -43,3 +43,7 @@
 <hr>
 
 Videók forrása: https://www.pexels.com
+
+Első zene forrása: https://www.youtube.com/watch?v=v01r-N8wKkw
+
+Második zene forrása: https://www.youtube.com/watch?v=0G9mVfWG9_w
